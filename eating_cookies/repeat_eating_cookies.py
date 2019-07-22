@@ -6,7 +6,7 @@ import sys
 # a solution that is more efficient than the naive
 # recursive solution
 
-new_cache = {
+new_cache: {
     1: 1,
     2: 2,
     3: 4
