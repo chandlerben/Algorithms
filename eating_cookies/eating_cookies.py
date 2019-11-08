@@ -24,7 +24,7 @@ def eating_cookies(n, cache=None):
     return new_cache[n]
 
 
-# print(eating_cookies(45))
+print(eating_cookies(5))
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
